@@ -2,9 +2,9 @@
 
 I hereby claim:
 
-  * I am trohoang on github.
-  * I am digger888 (https://keybase.io/digger888) on keybase.
-  * I have a public key ASAISNW-DvCXNp_SDGs63fR3slvP-NovJaN5OVwLHfvssgo
+  * I am unclebob2 on github.
+  * I am unclebob2 (https://keybase.io/unclebob2) on keybase.
+  * I have a public key ASDRoV7q5MmGQ7S0faKTpVjfT5_WLQnSVS4bgXTb6Tkz_go
 
 To claim this, I am signing this object:
 
@@ -12,22 +12,22 @@ To claim this, I am signing this object:
 {
   "body": {
     "key": {
-      "eldest_kid": "01200848d5be0ef097369fd20c6b3addf477b25bcff8da2f25a379395c0b1dfbecb20a",
+      "eldest_kid": "0120d1a15eeae4c98643b4b47da293a558df4f9fd62d09d2552e1b8174dbe93933fe0a",
       "host": "keybase.io",
-      "kid": "01200848d5be0ef097369fd20c6b3addf477b25bcff8da2f25a379395c0b1dfbecb20a",
-      "uid": "d898499bf5a266dfb0f636a7a7778f19",
-      "username": "digger888"
+      "kid": "0120d1a15eeae4c98643b4b47da293a558df4f9fd62d09d2552e1b8174dbe93933fe0a",
+      "uid": "49515874d87f311e97ae7b20cebfb919",
+      "username": "unclebob2"
     },
     "merkle_root": {
-      "ctime": 1568103581,
-      "hash": "c273262fee1a4b8bdc1dd310591b7a236a9304776761f3889f9d46389436e41aa160e9cb8401b9696e1c21b1fdbbc0268ef9be7a95db05d4e210c84c80574f85",
-      "hash_meta": "f22bc368b294ccac07e587ef519b5c3de78c417c743189fecbb47133aa921851",
-      "seqno": 6349246
+      "ctime": 1568104380,
+      "hash": "378525a9f694f7fdb8151bab835922293ed02abcb576f19523f64ec5851967df8ad1347212f4109465f31b09263ed9004137bdb7b7205a225f997a39ca225234",
+      "hash_meta": "663b1802fa5b9d65042cc08703806ff706399fe92429f9df5c1585fbff98b16e",
+      "seqno": 6351568
     },
     "service": {
-      "entropy": "CToroBvi2uQRIpmZG2tWgZ9/",
+      "entropy": "L5khh5v1l6GkjYpSfKMkg0q5",
       "name": "github",
-      "username": "trohoang"
+      "username": "unclebob2"
     },
     "type": "web_service_binding",
     "version": 2
@@ -36,18 +36,18 @@ To claim this, I am signing this object:
     "name": "keybase.io go client",
     "version": "4.4.1"
   },
-  "ctime": 1568103654,
+  "ctime": 1568104399,
   "expire_in": 504576000,
-  "prev": "c51b1e63ad75b5930a485b2fabfdfb14a90b78fb1120e44b6685effa72c5b6b9",
+  "prev": "26d78c8b27bb83452d1b3c631399f6c96861bbc116f554b05a047c8afa9e21c8",
   "seqno": 9,
   "tag": "signature"
 }
 ```
 
-with the key [ASAISNW-DvCXNp_SDGs63fR3slvP-NovJaN5OVwLHfvssgo](https://keybase.io/digger888), yielding the signature:
+with the key [ASDRoV7q5MmGQ7S0faKTpVjfT5_WLQnSVS4bgXTb6Tkz_go](https://keybase.io/unclebob2), yielding the signature:
 
 ```
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCEjVvg7wlzaf0gxrOt30d7Jbz/jaLyWjeTlcCx377LIKp3BheWxvYWTESpcCCcQgxRseY611tZMKSFsvq/37FKkLePsRIORLZoXv+nLFtrnEIG1GSlknDl8gVzOr1s41WeSeMi8qYwTVB13wZPORqYUyAgHCo3NpZ8RACmJBhjNaV8K96sCf1+5gq6mzdoAh8GP0yMubURs5uBNzzSFDbxy1XAR49WUV+FvGSR0lYzBSR6eC5zMfdZCAAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINsAY4RCpUpiEkE89WsoHWyJDBeCLA/Aarh32cwqPES/o3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg0aFe6uTJhkO0tH2ik6VY30+f1i0J0lUuG4F02+k5M/4Kp3BheWxvYWTESpcCCcQgJteMiye7g0UtGzxjE5n2yWhhu8EW9VSwWgR8ivqeIcjEIJLS/MIexpNlm0jNYySaxF04SKKCM+CRWBaGEuKeBJVaAgHCo3NpZ8RAd7ZA63iT5vU/wKrVNGOPrr6Pym4H575XxI2sKOyU+KofUFx79Q+nbcwwe3vffi+hyok9T5IObqp7BnxHoFR4C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIcPo+OUeO6sL1Onh46phQSxynRbQMiI2DdqfA1XCWc9o3RhZ80CAqd2ZXJzaW9uAQ==
 
 ```
 
@@ -55,7 +55,7 @@ And finally, I am proving ownership of the github account by posting this as a g
 
 ### My publicly-auditable identity:
 
-https://keybase.io/digger888
+https://keybase.io/unclebob2
 
 ### From the command line:
 
@@ -63,5 +63,5 @@ Consider the [keybase command line program](https://keybase.io/download).
 
 ```bash
 # look me up
-keybase id digger888
+keybase id unclebob2
 ```
